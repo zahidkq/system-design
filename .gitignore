@@ -29,4 +29,5 @@ bin/
 .DS_Store
 
 #Temporary
-src/LLD/
+src/LLD/flightSeatBooking
+src/LLD/parkingLot
